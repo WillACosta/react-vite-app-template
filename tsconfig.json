@@ -1,17 +1,17 @@
 {
-	"compilerOptions": {
-		"types": ["jest", "@testing-library/jest-dom"],
-		"jsx": "react-jsx",
-		"module": "ESNext",
-		"target": "ESNext",
-		"moduleResolution": "Node",
-		"strict": true,
-		"esModuleInterop": true,
-		"skipLibCheck": true,
-		"forceConsistentCasingInFileNames": true,
-		"composite": true,
-		"emitDeclarationOnly": true,
-		"allowImportingTsExtensions": true
-	},
-	"include": ["src", "test"]
+  "compilerOptions": {
+    "types": ["jest", "@testing-library/jest-dom"],
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "composite": true,
+    "emitDeclarationOnly": true,
+    "allowImportingTsExtensions": true
+  },
+  "include": ["src", "test"]
 }

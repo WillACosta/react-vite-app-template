@@ -4,9 +4,8 @@
   "bracketSpacing": true,
   "singleQuote": true,
   "semi": false,
-  "useTabs": true,
+  "useTabs": false,
   "trailingComma": "none",
-  "tabWidth": 2,
   "jsxSingleQuote": true,
   "printWidth": 80
 }
